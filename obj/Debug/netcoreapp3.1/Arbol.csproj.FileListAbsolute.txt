@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Arbol\obj\Debug\netcoreapp3.1\Arbol.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Arbol\obj\Debug\netcoreapp3.1\Arbol.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Arbol\obj\Debug\netcoreapp3.1\Arbol.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Arbol\bin\Debug\netcoreapp3.1\Arbol.exe
+C:\Users\ASUS\source\repos\Arbol\bin\Debug\netcoreapp3.1\Arbol.deps.json
+C:\Users\ASUS\source\repos\Arbol\bin\Debug\netcoreapp3.1\Arbol.runtimeconfig.json
+C:\Users\ASUS\source\repos\Arbol\bin\Debug\netcoreapp3.1\Arbol.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Arbol\bin\Debug\netcoreapp3.1\Arbol.dll
+C:\Users\ASUS\source\repos\Arbol\bin\Debug\netcoreapp3.1\Arbol.pdb
+C:\Users\ASUS\source\repos\Arbol\obj\Debug\netcoreapp3.1\Arbol.dll
+C:\Users\ASUS\source\repos\Arbol\obj\Debug\netcoreapp3.1\Arbol.pdb
